@@ -1,1 +1,1 @@
-# QCschool2023.github.io
+# QCschool2024.github.io
